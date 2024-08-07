@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ask Finance is a Streamlit application that allows users to upload PDF files, process their contents, and ask questions related to finance. The application leverages LangChain, FAISS, and Google Generative AI to provide detailed and accurate responses.
+Ask Finance is a Streamlit application that allows users to upload PDF files, process their contents, and ask questions related to finance. The application leverages LangChain, FAISS, and Google Generative AI to provide detailed and accurate responses. This application aims to solve the issue of missing out on important points in a long legal documents by the end user. This LLM is not only trained to fetch the data from the uploaded document but also make any suggestive response when prompted.
 
 ## Features
 
