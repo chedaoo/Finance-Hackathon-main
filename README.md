@@ -6,10 +6,8 @@ Ask Finance is a Streamlit application that allows users to upload PDF files, pr
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="E:/Downloads/streamlit-finance-2024-08-07-22-08-57.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[streamlit-finance-2024-08-07-22-08-57.webm](https://github.com/user-attachments/assets/37c36f85-ecc4-439b-b098-800f5c94f4c7)
+
 
 ## Features
 
